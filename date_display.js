@@ -1,4 +1,4 @@
-//Date Display by Tristan, ManageIT Services
+//Date Display by Tristan
 function fourDigitYear(number)	{						//creates a function to correctly calculate the year
 	return (number < 1000) ? number + 1900 : number;	
 }
